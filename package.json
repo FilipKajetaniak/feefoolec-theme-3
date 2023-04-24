@@ -1,0 +1,32 @@
+{
+  "name": "feefoolec-theme-3",
+  "displayName": "Feefoolec theme 3",
+  "description": "Improved Feefoolec theme. Made by Feefoolec for Feefoolecs",
+  "publisher": "Feefoolec",
+  "version": "3.0.0",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FilipKajetaniak/feefoolec-theme-3"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Feefoolec 3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Feefoolec theme 3-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "feefoolec",
+    "dark",
+    "feefoolec 3"
+  ]
+}
